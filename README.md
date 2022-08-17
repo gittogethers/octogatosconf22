@@ -14,7 +14,7 @@ El Código de Conducta convenido para Contribuyente se aplicará durante el even
 
  _________________________________________________________________________
 
-Uma conferência ao vivo e gratuita, de dois dias, nos dias 15 de Setembro de 2020, em celebração à nossa cultura e ao mês da herança latina. Você se juntará a uma transmissão ao vivo com palestras interativas de experts da indústria em Português y Espanhol, com legendas e tradução simultâneas. Os tópicos irão incluir desenvolvimento de software, segurança, gerenciamento técnico de projetos, desenvolvimento profissional e melhores práticas. 
+Uma conferência ao vivo e gratuita, dia 15 de Setembro de 2022, em celebração à nossa cultura e ao mês da herança latina. Você se juntará a uma transmissão ao vivo com palestras interativas de experts da indústria em Português e Espanhol, com legendas e tradução simultâneas. Os tópicos irão incluir desenvolvimento de software, segurança, gerenciamento técnico de projetos, comunidades, desenvolvimento profissional e melhores práticas. 
 
-O Código de Conduta se aplicará durante o evento
+O Código de Conduta se aplicará durante o evento.
 
