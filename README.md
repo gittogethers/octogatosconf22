@@ -1,3 +1,6 @@
+
+![octogatos](https://user-images.githubusercontent.com/20666190/188012666-ad25f373-bb91-4c28-9d52-c486afc0cce7.png)
+
 # OctogatosConf22
 
 A free  conference live on September 15, 2022 in celebration of our culture and Latinx heritage month. You will join a live stream of interactive talks by industry experts in both Spanish and Portuguese, with live translation.
