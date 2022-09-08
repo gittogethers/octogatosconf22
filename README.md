@@ -11,9 +11,9 @@ Contributor Covenant Code of Conduct will apply during the event.
 
 __________________________________________________________________________
 
-Una conferencia en vivo gratuita de el 15 septiembre de 2022 en la celebración de nuestra cultura durante el mes del patrimonio de Latinx. Te unirás a una transmisión en vivo de charlas interactivas por parte de expertos de la industria en español y portugués, con traducción. Los temas incluirán el desarrollo de software, la seguridad, la gestión de proyectos técnicos, el desarrollo profesional y las mejores prácticas.
+Una conferencia en vivo gratuita el 15 de septiembre de 2022 como celebración de nuestra cultura durante el mes del patrimonio Latinx. Te unirás a una transmisión en vivo de charlas interactivas por parte de expertos de la industria en español y portugués, con traducción. Los temas incluirán el desarrollo de software, la seguridad, la gestión de proyectos técnicos, el desarrollo profesional y las mejores prácticas. 
 
-El Código de Conducta convenido para Contribuyente se aplicará durante el evento.
+El Código de Conducta acordado se aplicará durante el evento.
 
  _________________________________________________________________________
 
